@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-19T13:28:55Z" name="Default suite" finished-at="2021-10-19T13:28:55Z" duration-ms="43">
+    <groups>
+    </groups>
+    <test started-at="2021-10-19T13:28:55Z" name="Default test" finished-at="2021-10-19T13:28:55Z" duration-ms="43">
+      <class name="basics.StreamsInJava">
+        <test-method signature="streamCollect()[pri:0, instance:basics.StreamsInJava@5117dd67]" started-at="2021-10-19T13:28:55Z" name="streamCollect" finished-at="2021-10-19T13:28:55Z" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- streamCollect -->
+      </class> <!-- basics.StreamsInJava -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
